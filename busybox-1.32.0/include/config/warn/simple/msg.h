@@ -1,0 +1,1 @@
+#undef CONFIG_WARN_SIMPLE_MSG

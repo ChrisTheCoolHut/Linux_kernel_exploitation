@@ -1,0 +1,1 @@
+#define CONFIG_I2CTRANSFER 1

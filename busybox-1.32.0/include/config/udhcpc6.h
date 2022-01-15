@@ -1,0 +1,1 @@
+#define CONFIG_UDHCPC6 1
